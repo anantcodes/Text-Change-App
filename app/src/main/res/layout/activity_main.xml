@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtHello"
+        android:text="Hello"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnClick"
+        android:layout_below="@+id/txtHello"
+        android:layout_centerHorizontal="true"
+        android:text="CLICK HERE"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@android:color/holo_blue_light"
+        android:layout_marginTop="10dp"/>
+
+
+
+</RelativeLayout>

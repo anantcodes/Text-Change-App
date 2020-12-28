@@ -2,6 +2,8 @@
 ***Task-1 CodeChef SRM***
 
 Download or clone the code and run it in your android studio.
+
+
 The app will function for the recursive clicks as well.
 
 ![Screenshot_20200728-114640_Text Change App](https://user-images.githubusercontent.com/66024577/88627895-b234d700-d0ca-11ea-93cc-ed4ea31103bd.jpg)
@@ -11,6 +13,7 @@ The app will function for the recursive clicks as well.
 ![Screenshot_20200728-114655_Text Change App](https://user-images.githubusercontent.com/66024577/88628168-21aac680-d0cb-11ea-91ce-623e008378a4.jpg)
 
 ***THANK YOU***
+
 
 
 

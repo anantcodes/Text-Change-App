@@ -1,5 +1,5 @@
 # Text-Change-App
-***Task-1 CodeChef SRM***
+
 
 Download or clone the code and run it in your android studio.
 
